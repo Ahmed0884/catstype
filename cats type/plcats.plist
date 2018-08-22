@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>Abyssinian </string>
+		<key>Image</key>
+		<string>1.</string>
+		<key>Des</key>
+		<string>The Abyssinian is a ticked or agouti breed. The distinctive coat appearance comes from the combination of colors on each hair shaft. The lighter or ground color lies closest to the skin and each hair shaft has dark-colored bands that are contrasted with lighter-colored bands.</string>
+	</dict>
+    <dict>
+        <key>Name</key>
+        <string>American Curl </string>
+        <key>Image</key>
+        <string>2.</string>
+        <key>Des</key>
+        <string>At birth, Curl kittens look like any other kitten, but between one and seven days the ears get firmer and start to plump up and curve back. Since the degree of curl can change dramatically over a short period, kittens should not be purchased until they are between four and four and one-half months, when the curl of the ear settles down into the form it will carry throughout the cat's life. </string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>American Wirehair </string>
+        <key>Image</key>
+        <string>3.</string>
+        <key>Des</key>
+        <string> The coat differs from the Cornish Rex's coat in that the Wirehair possesses all three hair types. Also, the Wirehair gene is dominant, unlike the Cornish and the Devon Rex's recessive genes. The Wirehair's hairs are crimped, hooked, or bent, resulting in a dense, resilient coat that leads to ringlet formation rather than waves. </string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string> Balinese  </string>
+        <key>Image</key>
+        <string>4.</string>
+        <key>Des</key>
+        <string>The Balinese should not to be confused with the Himalayan, which bears the pointed pattern of his Siamese ancestors but has the body style and personality of the Persian. Today's show Balinese resembles the extreme Siamese that is popular in today's show hall, rather than the stockier traditional Siamese that is making his comeback among fanciers. </string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string> Bengal  </string>
+        <key>Image</key>
+        <string>5.</string>
+        <key>Des</key>
+        <string>The Bengal's spots are aligned horizontally rather than in random or tabby configuration. Rosettes formed in a part-circle around a redder center is the preferred look. Emphasis is put on the contrast between the spots and the background color; the edges should be sharp and pattern distinct for a show-quality cat.</string>
+    </dict>
+
+<dict>
+    <key>Name</key>
+    <string> Birman </string>
+    <key>Image</key>
+    <string>6.</string>
+    <key>Des</key>
+    <string> In the ideal Birman, the matching white gloves on the front paws should end at or between the second and third joints of the paw. On the back paws, the gloves should cover all the toes and may extend up higher than the gloves on the front paws. The gloves must extend up the back of the hock and in this area are called laces.</string>
+</dict>
+
+</array>
+</plist>
